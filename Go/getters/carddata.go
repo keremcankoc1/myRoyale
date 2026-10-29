@@ -2,8 +2,8 @@ package getters
 
 import (
 	"encoding/json"
-	client "myRoyale/Client"
-	structs "myRoyale/Structs/DataStruct"
+	"myRoyale/client"
+	"myRoyale/models"
 	"strings"
 )
 
@@ -16,7 +16,7 @@ func GetCardData(playerTag string) (map[string]int, error) {
 		return map[string]int{}, err
 	}
 
-	var player structs.Player
+	var player models.Player
 	err = json.Unmarshal(bodyBytes, &player)
 	if err != nil {
 		return map[string]int{}, err
@@ -24,7 +24,7 @@ func GetCardData(playerTag string) (map[string]int, error) {
 
 	cardData := make(map[string]int)
 	for _, card := range player.Cards {
-		cardData[card.Name] = card.Level + (16 - card.MaxLevel)
+		cardData[card.Name] = card.ActualLevel()
 	}
 
 	return cardData, nil

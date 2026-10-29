@@ -3,7 +3,7 @@ package client
 import (
 	"encoding/json"
 	"io"
-	errorstruct "myRoyale/Errors/ErrorStruct"
+	"myRoyale/apperrors"
 	"net/http"
 	"os"
 )
@@ -34,7 +34,7 @@ func Fetch(url string) ([]byte, error) {
 		return bodyBytes, nil
 	}
 
-	var statErr errorstruct.StatCode
+	var statErr apperrors.StatCode
 
 	json.Unmarshal(bodyBytes, &statErr)
 	statErr.Code = resp.StatusCode

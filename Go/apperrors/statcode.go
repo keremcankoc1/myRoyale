@@ -1,4 +1,4 @@
-package errorstruct
+package apperrors
 
 import "fmt"
 

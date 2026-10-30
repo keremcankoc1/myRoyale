@@ -1,0 +1,1100 @@
+[
+  {
+    "name": "Goblins",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Mortar",
+    "card_type": "building",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Electro Dragon",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Witch",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Guards",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Wizard",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "P.E.K.K.A",
+    "card_type": "troop",
+    "role": "heavy_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Goblin Giant",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Giant",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Minion Horde",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Balloon",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": true,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Earthquake",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Royal Ghost",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Goblin Cage",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Royal Delivery",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Inferno Dragon",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Executioner",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Mega Minion",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Mega Knight",
+    "card_type": "troop",
+    "role": "heavy_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Lumberjack",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Magic Archer",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Skeleton Dragons",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Battle Healer",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Furnace",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Goblin Hut",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Fire Spirit",
+    "card_type": "troop",
+    "role": "cycle",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Elixir Golem",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Heal Spirit",
+    "card_type": "troop",
+    "role": "cycle",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Night Witch",
+    "card_type": "troop",
+    "role": "support",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Minions",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Skeleton Barrel",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": true,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Rascals",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Elixir Collector",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Flying Machine",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Skeleton Army",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Goblin Drill",
+    "card_type": "building",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Spear Goblins",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Bowler",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Musketeer",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Lava Hound",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Three Musketeers",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Princess",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Barbarian Hut",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Royal Recruits",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Zappies",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Arrows",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Golem",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Fireball",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Fisherman",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Barbarians",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Elite Barbarians",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Bats",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Giant Snowball",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Inferno Tower",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Royal Hogs",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Hunter",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Battle Ram",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Bomb Tower",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Hog Rider",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Rage",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Clone",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Bomber",
+    "card_type": "troop",
+    "role": "support",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Valkyrie",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Tornado",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "X-Bow",
+    "card_type": "building",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Tesla",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Cannon Cart",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Ram Rider",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Ice Golem",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Lightning",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Electro Spirit",
+    "card_type": "troop",
+    "role": "cycle",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Royal Giant",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Poison",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Dart Goblin",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Electro Giant",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Skeletons",
+    "card_type": "troop",
+    "role": "cycle",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Baby Dragon",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Skeleton King",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Freeze",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Ice Spirit",
+    "card_type": "troop",
+    "role": "cycle",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Graveyard",
+    "card_type": "spell",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Phoenix",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": true,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Miner",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Mother Witch",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Sparky",
+    "card_type": "troop",
+    "role": "heavy_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Archers",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Wall Breakers",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Golden Knight",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Zap",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Giant Skeleton",
+    "card_type": "troop",
+    "role": "heavy_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Firecracker",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Electro Wizard",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Prince",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Dark Prince",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Bandit",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Tombstone",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Ice Wizard",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Archer Queen",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Mirror",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Goblin Barrel",
+    "card_type": "spell",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Cannon",
+    "card_type": "building",
+    "role": "building",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Rocket",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Knight",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Goblin Gang",
+    "card_type": "troop",
+    "role": "swarm",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Barbarian Barrel",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "The Log",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Mighty Miner",
+    "card_type": "troop",
+    "role": "tank_killer",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Goblin Demolisher",
+    "card_type": "troop",
+    "role": "support",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Void",
+    "card_type": "spell",
+    "role": "big_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Goblin Curse",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Little Prince",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Goblin Machine",
+    "card_type": "troop",
+    "role": "heavy_tank",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Suspicious Bush",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Goblinstein",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": true,
+    "is_splash": true
+  },
+  {
+    "name": "Monk",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Rune Giant",
+    "card_type": "troop",
+    "role": "win_condition",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": true,
+    "is_splash": false
+  },
+  {
+    "name": "Berserker",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Boss Bandit",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": false
+  },
+  {
+    "name": "Spirit Empress",
+    "card_type": "troop",
+    "role": "air_defense",
+    "is_flying": false,
+    "targets_air": true,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Vines",
+    "card_type": "spell",
+    "role": "small_spell",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  },
+  {
+    "name": "Ronin",
+    "card_type": "troop",
+    "role": "mini_tank",
+    "is_flying": false,
+    "targets_air": false,
+    "targets_only_builds": false,
+    "is_splash": true
+  }
+]

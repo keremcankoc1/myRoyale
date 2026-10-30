@@ -11,6 +11,12 @@ type Card struct {
 	MaxEvolutionLevel int    `json:"maxEvolutionLevel"` // Bu kartın evrimi oyunda var mı
 	Count             int    `json:"count"`             // Oyuncunun elinde biriken kart adedi (Yükseltme maliyeti için)
 	IsInDeck          bool   `json:"isInDeck"`
+	CardType          string `json:"card_type"`
+	Role              string `json:"role"`
+	IsFlying          bool   `json:"is_flying"`
+	TargetsAir        bool   `json:"targets_air"`
+	TargetsOnlyBuilds bool   `json:"targets_only_builds"`
+	IsSplash          bool   `json:"is_splash"`
 }
 
 func (c Card) ActualLevel() int {

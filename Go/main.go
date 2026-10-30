@@ -27,6 +27,10 @@ func main() {
 	handlers.CardHandler(db)
 	handlers.PlayerStatsHandler(db)
 	handlers.DeckHandler(db)
+	err = database.SeedCardCatalog(db)
+	if err != nil {
+		fmt.Println("SeedCardCatalog has fault.", err)
+	}
 
 	http.ListenAndServe(":8080", nil)
 }
